@@ -81,8 +81,8 @@ html, body {
 .hero {
 	position:relative;
 	height:98%;
-    min-height:98%;
-    height:auto !important;
+	min-height:98%;
+	height:auto !important;
 	width:200px;
 	margin:5px;
 	background-color:#DCDCDC;
